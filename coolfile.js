@@ -6,4 +6,10 @@ function coolFunction() {
 
 coolFunction()
 
+function refactoringFunction() {
+    console.log('I am refactoring')
+}
+
 anotherFunction()
+
+refactoringFunction()
