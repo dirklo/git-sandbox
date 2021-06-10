@@ -1,3 +1,4 @@
+import amazingFunction from './amazingFunction'
 import anotherFunction from './anotherFunction'
 
 function coolFunction() {
@@ -13,3 +14,5 @@ function refactoringFunction() {
 anotherFunction()
 
 refactoringFunction()
+
+amazingFunction()
