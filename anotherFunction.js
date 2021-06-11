@@ -1,6 +1,6 @@
 function anotherFunction() {
     console.log('I am in another function, just so you know...')
-    return (2 + 2);
+    console.log('I am changing this function to try and make a merge conflict')
 }
 
 export default anotherFunction
